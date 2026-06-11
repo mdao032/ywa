@@ -1,0 +1,70 @@
+# ─── Next.js ──────────────────────────────────────────────────────────────────
+.next/
+out/
+build/
+
+# ─── Dépendances ──────────────────────────────────────────────────────────────
+node_modules/
+
+# ─── Variables d'environnement ────────────────────────────────────────────────
+# Fichiers .env réels — ne JAMAIS commiter
+.env
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# Fichiers d'exemple — OK à commiter (aucun secret)
+# .env.local.example       ✓ commitable
+# .env.production.example  ✓ commitable
+
+# ─── TypeScript ───────────────────────────────────────────────────────────────
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+
+# ─── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─── IDE & éditeurs ───────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ─── Claude Code ──────────────────────────────────────────────────────────────
+.claude/
+
+# ─── Vercel / déploiement ─────────────────────────────────────────────────────
+.vercel
+
+# ─── Tests & coverage ─────────────────────────────────────────────────────────
+coverage/
+.nyc_output/
+
+# ─── Lock files ───────────────────────────────────────────────────────────────
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ─── Misc ─────────────────────────────────────────────────────────────────────
+.turbo/
+*.pem

@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Home",
+    "expertise": "Our Expertise",
+    "services": "Our Services",
+    "strengths": "Our Strengths",
+    "mission": "Our Mission",
+    "career": "Career",
+    "news": "News",
+    "contact": "Contact Us",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Your Digital Transformation Journey",
+    "title_line1": "Accelerate your",
+    "title_line2": "Digital Transformation",
+    "subtitle": "At YWA Consulting, we simplify digital transformation — clear strategic advice, tailored optimization solutions and expert support to propel your organization forward.",
+    "cta_primary": "Discover our services",
+    "cta_secondary": "Contact Us"
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Discover our expert {highlight} for digital transformation",
+    "title_highlight": "consulting services",
+    "subtitle": "At YWA Consulting, we offer a suite of consulting services designed to guide your business through a successful digital transformation.",
+    "strategy": {
+      "title": "Digital Strategy Consulting",
+      "description": "Developing comprehensive plans to leverage digital technologies, align business goals, and stay ahead in competitive markets. We provide a clear roadmap for digital transformation.",
+      "cta": "Learn More"
+    },
+    "optimization": {
+      "title": "Process Optimization & Automation",
+      "description": "Analyzing and redesigning workflows to improve efficiency, reduce costs, and implement automation solutions that streamline operations across departments.",
+      "cta": "Learn More"
+    },
+    "adoption": {
+      "title": "Digital Tool Adoption",
+      "description": "Helping select, implement, and integrate the latest digital tools tailored to your business needs, ensuring a smooth transition and workflow modernization.",
+      "cta": "Learn More"
+    },
+    "innovation": {
+      "title": "Innovation & Modernization",
+      "description": "Managing innovation and modernizing workflows to improve productivity, agility, and overall business performance through cutting-edge digital solutions.",
+      "cta": "Learn More"
+    }
+  },
+  "why_us": {
+    "badge": "Why Choose Us",
+    "title": "Why {highlight} is the right choice for your business",
+    "title_highlight": "YWA Consulting",
+    "subtitle": "Our unique approach, deep industry expertise, and commitment to delivering measurable results make us the ideal partner for your digital journey.",
+    "expertise": {
+      "title": "Expertise You Can Trust",
+      "description": "Our team consists of seasoned consultants with extensive experience across various industries. We bring a wealth of knowledge and proven track record to every project."
+    },
+    "methodology": {
+      "title": "Our Proven Methodology",
+      "description": "We use a structured, results-driven methodology that ensures every project is aligned with your business goals, minimizing risks and maximizing the impact of your digital investments."
+    },
+    "results": {
+      "title": "Tangible Business Results",
+      "description": "Our clients have experienced significant improvements in efficiency, customer satisfaction, and profitability through our tailored solutions."
+    },
+    "philosophy_label": "Our Philosophy",
+    "philosophy_title": "Clarity drives transformation",
+    "philosophy_text": "At YWA Consulting, we believe that clarity is the cornerstone of successful digital transformation. Our approach combines deep industry expertise with a commitment to providing clear, actionable strategies.",
+    "philosophy_cta": "Learn More"
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "Client Success Stories",
+    "subtitle": "Discover how our clients have transformed their businesses with YWA Consulting's expertise."
+  },
+  "blog": {
+    "badge": "Insights",
+    "title": "Featured Insights",
+    "subtitle": "Discover our latest articles on digital transformation and innovation.",
+    "cta": "Learn More",
+    "empty": "No articles available yet. Check back soon.",
+    "read_more": "Read Article",
+    "all_articles": "All Articles"
+  },
+  "cta_banner": {
+    "title": "Transform Your Business Today",
+    "subtitle": "Discover how YWA Consulting can help you modernize your operations and accelerate growth through tailored digital solutions.",
+    "primary": "Book a Free Consultation",
+    "secondary": "Learn More About Us"
+  },
+  "stats": {
+    "title": "Our Mission & Vision",
+    "subtitle": "At YWA Consulting, we empower organizations to excel in the digital age through innovative strategies, seamless transformation, and reliable support.",
+    "transformation": "Digital Transformation Success",
+    "growth": "Business Growth & Efficiency",
+    "expertise": "Cutting-Edge Expertise",
+    "innovation": "Innovative Solutions & Reliable Guidance"
+  },
+  "footer": {
+    "company": "Company",
+    "services_col": "Services",
+    "resources": "Resources",
+    "stay_updated": "Stay Updated",
+    "newsletter_placeholder": "Your email",
+    "subscribe": "Subscribe",
+    "copyright": "© {year} YWA Consulting. All rights reserved.",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "digital_strategy": "Digital Strategy",
+    "process_optimization": "Process Optimization",
+    "automation": "Automation",
+    "blog": "Blog",
+    "case_studies": "Case Studies",
+    "newsletter_success": "Thank you for subscribing!",
+    "newsletter_error": "Something went wrong. Please try again."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to start your digital transformation? Let's talk.",
+    "name": "Full Name",
+    "email": "Professional Email",
+    "company": "Company (optional)",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent! We will get back to you within 24 hours.",
+    "error": "Something went wrong. Please try again or email us directly.",
+    "book_call": "Book a Free Consultation"
+  },
+  "career": {
+    "title": "Join the YWA Consulting Team",
+    "subtitle": "We are always looking for talented people passionate about digital transformation.",
+    "why_us": "Why Join Us",
+    "open_positions": "Open Positions",
+    "no_positions": "No positions available at the moment. Check back soon or send a spontaneous application.",
+    "spontaneous": "Spontaneous Application",
+    "apply": "Apply"
+  },
+  "news": {
+    "title": "Insights & News",
+    "subtitle": "The latest thinking from the YWA Consulting team on digital transformation.",
+    "back": "Back to Articles",
+    "published": "Published on",
+    "related": "Related Articles",
+    "empty": "No articles available yet."
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "get_started": "Get Started",
+    "contact_us": "Contact Us",
+    "back_home": "Back to Home",
+    "loading": "Loading...",
+    "error_title": "Something went wrong",
+    "error_subtitle": "We couldn't load this page. Please try again.",
+    "not_found_title": "Page Not Found",
+    "not_found_subtitle": "The page you're looking for doesn't exist or has been moved."
+  }
+}

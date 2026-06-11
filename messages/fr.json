@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "expertise": "Notre Expertise",
+    "services": "Nos Services",
+    "strengths": "Nos Atouts",
+    "mission": "Notre Mission",
+    "career": "Carrière",
+    "news": "News",
+    "contact": "Nous Contacter",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Votre parcours de transformation numérique",
+    "title_line1": "Accélérez votre",
+    "title_line2": "Transformation Numérique",
+    "subtitle": "Chez YWA Consulting, nous simplifions la transformation numérique — conseils stratégiques clairs, solutions d'optimisation sur-mesure et accompagnement expert pour propulser votre organisation.",
+    "cta_primary": "Découvrir nos services",
+    "cta_secondary": "Nous Contacter"
+  },
+  "services": {
+    "badge": "Nos Services",
+    "title": "Découvrez notre expert {highlight} pour la transformation numérique",
+    "title_highlight": "services de conseil",
+    "subtitle": "Chez YWA Consulting, nous proposons une suite de services de conseil conçus pour guider votre entreprise à travers une transformation numérique réussie.",
+    "strategy": {
+      "title": "Conseil en stratégie numérique",
+      "description": "Élaborer des plans complets pour tirer parti des technologies numériques, aligner les objectifs commerciaux et rester en tête sur des marchés concurrentiels. Nous fournissons une feuille de route claire pour la transformation numérique.",
+      "cta": "En savoir plus"
+    },
+    "optimization": {
+      "title": "Optimisation et automatisation des processus",
+      "description": "Analyse et refonte des flux de travail pour améliorer l'efficacité, réduire les coûts et mettre en œuvre des solutions d'automatisation qui rationalisent les opérations entre les départements.",
+      "cta": "En savoir plus"
+    },
+    "adoption": {
+      "title": "Adoption des outils numériques",
+      "description": "Aider à sélectionner, mettre en œuvre et intégrer les derniers outils numériques adaptés aux besoins de votre entreprise, en assurant une transition en douceur et une modernisation des flux de travail.",
+      "cta": "En savoir plus"
+    },
+    "innovation": {
+      "title": "Innovation et modernisation",
+      "description": "Gérer l'innovation et moderniser les flux de travail pour améliorer la productivité, l'agilité et la performance globale de l'entreprise grâce à des solutions numériques de pointe.",
+      "cta": "En savoir plus"
+    }
+  },
+  "why_us": {
+    "badge": "Pourquoi nous choisir",
+    "title": "Pourquoi {highlight} est le bon choix pour votre entreprise",
+    "title_highlight": "YWA Consulting",
+    "subtitle": "Notre approche unique, notre expertise approfondie et notre engagement à fournir des résultats mesurables font de nous le partenaire idéal pour votre parcours numérique.",
+    "expertise": {
+      "title": "Une expertise en qui vous pouvez avoir confiance",
+      "description": "Notre équipe est composée de consultants chevronnés possédant une vaste expérience dans divers secteurs. Nous apportons une richesse de connaissances à chaque projet."
+    },
+    "methodology": {
+      "title": "Notre méthodologie éprouvée",
+      "description": "Nous utilisons une méthodologie structurée et axée sur les résultats qui garantit que chaque projet est aligné sur vos objectifs commerciaux, minimisant les risques et maximisant l'impact."
+    },
+    "results": {
+      "title": "Résultats commerciaux tangibles",
+      "description": "Nos clients ont connu des améliorations significatives en termes d'efficacité, de satisfaction des clients et de rentabilité grâce à nos solutions sur mesure."
+    },
+    "philosophy_label": "Notre philosophie",
+    "philosophy_title": "La clarté entraîne la transformation",
+    "philosophy_text": "Chez YWA Consulting, nous pensons que la clarté est la pierre angulaire d'une transformation numérique réussie. Notre approche combine une expertise approfondie de l'industrie avec un engagement à fournir des stratégies claires et exploitables.",
+    "philosophy_cta": "En savoir plus"
+  },
+  "testimonials": {
+    "badge": "Témoignages",
+    "title": "Histoires de réussite des clients",
+    "subtitle": "Découvrez comment nos clients ont transformé leurs activités grâce à l'expertise de YWA Consulting."
+  },
+  "blog": {
+    "badge": "Actualités",
+    "title": "Aperçus en vedette",
+    "subtitle": "Découvrez nos derniers articles sur la transformation numérique et l'innovation.",
+    "cta": "En savoir plus",
+    "empty": "Aucun article disponible pour le moment. Revenez bientôt.",
+    "read_more": "Lire l'article",
+    "all_articles": "Tous les articles"
+  },
+  "cta_banner": {
+    "title": "Transformez votre entreprise aujourd'hui",
+    "subtitle": "Découvrez comment YWA Consulting peut vous aider à moderniser vos opérations et à accélérer la croissance grâce à des solutions numériques sur mesure.",
+    "primary": "Réserver une consultation gratuite",
+    "secondary": "En savoir plus sur nous"
+  },
+  "stats": {
+    "title": "Notre mission et vision",
+    "subtitle": "Chez YWA Consulting, nous donnons aux organisations les moyens d'exceller dans l'ère numérique grâce à des stratégies innovantes, à une transformation transparente et à un soutien fiable.",
+    "transformation": "Réussite de la transformation numérique",
+    "growth": "Croissance et efficacité des entreprises",
+    "expertise": "Une expertise de pointe",
+    "innovation": "Des solutions innovantes et des conseils fiables"
+  },
+  "footer": {
+    "company": "Company",
+    "services_col": "Services",
+    "resources": "Resources",
+    "stay_updated": "Stay Updated",
+    "newsletter_placeholder": "Votre email",
+    "subscribe": "S'abonner",
+    "copyright": "© {year} YWA Consulting. Tous droits réservés.",
+    "terms": "Conditions générales",
+    "privacy": "Politique de confidentialité",
+    "digital_strategy": "Stratégie numérique",
+    "process_optimization": "Optimisation des processus",
+    "automation": "Automatisation",
+    "blog": "Blog",
+    "case_studies": "Études de cas",
+    "newsletter_success": "Merci pour votre inscription !",
+    "newsletter_error": "Une erreur est survenue. Réessayez."
+  },
+  "contact": {
+    "title": "Nous Contacter",
+    "subtitle": "Prêt à démarrer votre transformation numérique ? Parlons-en.",
+    "name": "Nom complet",
+    "email": "Email professionnel",
+    "company": "Entreprise (optionnel)",
+    "subject": "Objet",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé ! Nous vous répondrons sous 24h.",
+    "error": "Une erreur est survenue. Veuillez réessayer ou nous écrire directement.",
+    "book_call": "Réserver une consultation gratuite"
+  },
+  "career": {
+    "title": "Rejoignez l'équipe YWA Consulting",
+    "subtitle": "Nous sommes toujours à la recherche de talents passionnés par la transformation numérique.",
+    "why_us": "Pourquoi nous rejoindre",
+    "open_positions": "Offres d'emploi",
+    "no_positions": "Aucune offre disponible actuellement. Revenez bientôt ou envoyez une candidature spontanée.",
+    "spontaneous": "Candidature spontanée",
+    "apply": "Postuler"
+  },
+  "news": {
+    "title": "Aperçus & Actualités",
+    "subtitle": "Les dernières réflexions de l'équipe YWA Consulting sur la transformation numérique.",
+    "back": "Retour aux articles",
+    "published": "Publié le",
+    "related": "Articles similaires",
+    "empty": "Aucun article disponible pour le moment."
+  },
+  "common": {
+    "learn_more": "En savoir plus",
+    "get_started": "Commencer",
+    "contact_us": "Nous Contacter",
+    "back_home": "Retour à l'accueil",
+    "loading": "Chargement...",
+    "error_title": "Une erreur est survenue",
+    "error_subtitle": "Nous n'avons pas pu charger cette page. Veuillez réessayer.",
+    "not_found_title": "Page introuvable",
+    "not_found_subtitle": "La page que vous cherchez n'existe pas ou a été déplacée."
+  }
+}
