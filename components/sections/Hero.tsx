@@ -58,20 +58,19 @@ export function Hero() {
             </div>
 
             {/* Headline massif */}
-            <h1 className="font-display font-bold leading-[1.04] tracking-tight mb-6 sm:mb-8"
-              style={{ fontSize: 'clamp(2rem, 7vw, 6rem)' }}>
+            <h3 className="font-display font-bold leading-[1.04] tracking-tight mb-6 sm:mb-8"
+              style={{ fontSize: 'clamp(1rem, 6vw, 5rem)' }}>
               <span className="block text-white">{t('title_line1')}</span>
               <span className="block mt-1"
                 style={{
                   background: 'linear-gradient(135deg, #60a5fa 0%, #818cf8 50%, #a78bfa 100%)',
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',
-                  backgroundClip: 'text',
-                    visibility: 'hidden',
+                  backgroundClip: 'text'
                 }}>
                 {t('title_line2')}
               </span>
-            </h1>
+            </h3>
 
             <p className="text-neutral-400 text-base sm:text-lg leading-relaxed mb-8 sm:mb-10 max-w-[520px]">
               {t('subtitle')}
