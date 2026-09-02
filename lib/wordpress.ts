@@ -45,7 +45,7 @@ export interface WPPage {
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
-const WP_API = process.env.NEXT_PUBLIC_WP_API_URL ?? 'https://ywaconsulting.com/wp-json/wp/v2'
+const WP_API = process.env.NEXT_PUBLIC_WP_API_URL ?? 'https://cms.ywaconsulting.com/wp-json/wp/v2'
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 

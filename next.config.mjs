@@ -12,6 +12,11 @@ const nextConfig = {
         pathname: '/wp-content/uploads/**',
       },
       {
+        protocol: 'https',
+        hostname: 'cms.ywaconsulting.com',
+        pathname: '/wp-content/uploads/**',
+      },
+      {
         // Avatars Gravatar (auteurs WP)
         protocol: 'https',
         hostname: 'secure.gravatar.com',
